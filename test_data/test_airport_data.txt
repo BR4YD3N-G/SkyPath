@@ -1,0 +1,3 @@
+0 SLC SaltLakeCity 40.7 -111.9
+1 JFK NewYork 40.6 -73.7
+3 ORD Chicago 41.9 -87.9

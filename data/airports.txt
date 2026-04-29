@@ -1,0 +1,10 @@
+0 SLC SaltLakeCity 40.789 -111.979
+1 JFK NewYork 40.641 -73.778
+2 LAX LosAngeles 33.941 -118.408
+3 ORD Chicago 41.974 -87.907
+4 DFW Dallas 32.899 -97.040
+5 SFO SanFrancisco 37.618 -122.374
+6 MIA Miami 25.795 -80.287
+7 SEA Seattle 47.450 -122.308
+8 DEN Denver 39.856 -104.673
+9 ATL Atlanta 33.640 -84.427
