@@ -100,6 +100,7 @@ public class LogisticEngine {
 
             Airport airport = new Airport(id, code, city, lat, lon);
             this.addAirport(airport);
+            airportCount++;
         }
     }
 
