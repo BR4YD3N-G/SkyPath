@@ -1,0 +1,27 @@
+# === General Build & OS ===
+*.class
+*.jar
+bin/
+out/
+.DS_Store
+Thumbs.db
+
+# === Zed Editor ===
+.zed/
+# Zed-specific local database and state
+.zed-state/
+
+# === VS Code ===
+.vscode/
+# Ignore Java language server settings
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+*.code-workspace
+
+# Ignore the project-specific Java index
+.project
+.classpath
+.factorypath
+.settings/
